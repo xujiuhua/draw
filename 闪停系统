@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-30T09:14:57.335Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:71.0) Gecko/20100101 Firefox/71.0" etag="7rJaYaPmPoNDJbvYmwWE" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-30T09:18:29.194Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:71.0) Gecko/20100101 Firefox/71.0" etag="JHzOXn9FZ0IJL-0J0OMg" version="12.4.7" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1186" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-11" value="车辆驶入" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="7baba1c4bc27f4b0-13" edge="1">
+        <mxCell id="7baba1c4bc27f4b0-11" value="车辆准备进入" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="7baba1c4bc27f4b0-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="158" y="200" as="sourcePoint"/>
             <mxPoint x="443" y="200" as="targetPoint"/>
@@ -64,7 +64,7 @@
             <mxPoint x="616" y="280" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONDAuyFvPAii1SCMPS4Z-4" value="车辆驶离停车场" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ONDAuyFvPAii1SCMPS4Z-3">
+        <mxCell id="ONDAuyFvPAii1SCMPS4Z-4" value="车辆准备驶离" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ONDAuyFvPAii1SCMPS4Z-3">
           <mxGeometry x="0.1628" y="-1" relative="1" as="geometry">
             <mxPoint y="-9" as="offset"/>
           </mxGeometry>
