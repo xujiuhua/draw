@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T08:51:49.461Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="azO-mymFZYoz_m8fXw6a" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-03T08:52:55.180Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5lt5uyEuvycpc4aTTwCh" version="21.3.5" type="github">
   <diagram name="Page-1" id="Rzy3eBNsuHiDP5stUY4O">
     <mxGraphModel dx="1242" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
           <mxGeometry x="800" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tfed08BJXmWeT6Q3c6Ae-35" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1230" y="570" width="180" height="210" as="geometry" />
+          <mxGeometry x="1220" y="570" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="tfed08BJXmWeT6Q3c6Ae-30" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="tfed08BJXmWeT6Q3c6Ae-35">
           <mxGeometry width="180" height="210" as="geometry" />
@@ -106,13 +106,13 @@
         <mxCell id="tfed08BJXmWeT6Q3c6Ae-29" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="tfed08BJXmWeT6Q3c6Ae-36">
           <mxGeometry width="180" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="tfed08BJXmWeT6Q3c6Ae-17" value="ActiveMQ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="tfed08BJXmWeT6Q3c6Ae-36">
+        <mxCell id="tfed08BJXmWeT6Q3c6Ae-17" value="消息队列&lt;br&gt;ActiveMQ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="tfed08BJXmWeT6Q3c6Ae-36">
           <mxGeometry x="30" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tfed08BJXmWeT6Q3c6Ae-18" value="Zookeeper" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="tfed08BJXmWeT6Q3c6Ae-36">
+        <mxCell id="tfed08BJXmWeT6Q3c6Ae-18" value="分布式事务&lt;br&gt;Zookeeper" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="tfed08BJXmWeT6Q3c6Ae-36">
           <mxGeometry x="30" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tfed08BJXmWeT6Q3c6Ae-19" value="MinIO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="tfed08BJXmWeT6Q3c6Ae-36">
+        <mxCell id="tfed08BJXmWeT6Q3c6Ae-19" value="文件存储&lt;br&gt;MinIO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="tfed08BJXmWeT6Q3c6Ae-36">
           <mxGeometry x="30" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tfed08BJXmWeT6Q3c6Ae-32" value="开源中间件" style="text;html=1;strokeColor=#314354;fillColor=#647687;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="tfed08BJXmWeT6Q3c6Ae-36">
